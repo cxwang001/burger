@@ -8,7 +8,7 @@ var connection = mysql.createConnection({
   database: "burger_db"
 });
 
-// Make connection.
+// Make connection with db
 connection.connect(function(err) {
   if (err) {
     console.error("error connecting: " + err.stack);
