@@ -11,3 +11,5 @@ A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
 * The app will store every burger in a database, whether devoured or not.
 
 * The app has been deployed on Heroku.
+![image](https://user-images.githubusercontent.com/27830803/29238462-f4dcee60-7eea-11e7-8b12-00f7c1e5816c.png)
+
